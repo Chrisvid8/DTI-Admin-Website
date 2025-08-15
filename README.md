@@ -11,7 +11,7 @@ Since the project code was required to be deleted after completion, this reposit
 |------------|-------------|
 | ![Screenshot 1](screenshots/screenshot1.png) | Dashboard with analytics overview (graphs and charts) |
 | ![Screenshot 2](screenshots/screenshot2.png) | Pie chart and bar chart for data visualization |
-| ![Screenshot 3](screenshots/screenshot3.png) | Store management table (Read, Update, Delete) |
+| ![Screenshot 3](screenshots/screenshot3.PNG) | Store management table (Read, Update, Delete) |
 | ![Screenshot 4](screenshots/screenshot4.png) | Complaint & SRE data management section |
 
 ---
